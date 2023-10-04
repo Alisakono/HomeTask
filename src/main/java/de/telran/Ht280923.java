@@ -2,8 +2,7 @@ package de.telran;
 public class Ht280923 {
     public static  void main(String[] args) {
 
-        String str = new String();
-        str = "I study Basic Java!";
+        String str = new String("I study Basic Java!");
 
         System.out.println(str);
 
@@ -43,6 +42,4 @@ public class Ht280923 {
         System.out.println(str);*/
 
     }
-
-
 }
