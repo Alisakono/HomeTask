@@ -3,19 +3,19 @@ package de.telran;
 public class ht260923 {
     public static void main(String[] args) {
         char myChar = 'G';
-        System.out.println('G');
+        System.out.println(myChar);
         int myInt = 89;
-        System.out.println(89);
+        System.out.println(myInt);
         byte myByte = 4;
-        System.out.println(4);
+        System.out.println(myByte);
         short myShort = 56;
-        System.out.println(56);
+        System.out.println(myShort);
         float myFloat = 4.7333436f;
-        System.out.println(4.7333436f);
+        System.out.println(myFloat);
         double myDouble = 4.355453532;
-        System.out.println(4.3554535352);
+        System.out.println(myDouble);
         long myLong = 12121;
-        System.out.print(12121);
+        System.out.print(myLong);
 
         /*2) В методе main инициализировать все примитивные типы.
 Вывести их результат в консоль:

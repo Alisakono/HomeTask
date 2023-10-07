@@ -2,16 +2,16 @@ package de.telran;
 
 public class ht2609232 {
     public static void main(String[] args) {
-        int argF1 = 345, argF2 = 115;
-        int argF3 = 69, argF4 = 341;
+        int a = 345, b = 100,c = 10;
+        int myInt = a / b;
+        int myInt1 = a % c;
+        int myInt2 =(a / c) % c;
 
-        int myIntF = argF1 / argF2;
-        int myInt = argF1 - argF4;
-        int myInt1 = argF1 / argF3;
 
-        System.out.println("argF1 / argF2 = "+myIntF);
-        System.out.println("argF1 - argF4 = "+myInt);
-        System.out.println("argF1 / argF3 = "+myInt1);
+
+        System.out.println("a / b = "+myInt);
+        System.out.println("a % c = "+myInt1);
+        System.out.println("(a / c) % c = "+myInt2);
 
 
 
