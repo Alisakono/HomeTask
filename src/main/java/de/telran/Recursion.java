@@ -5,7 +5,7 @@ import java.util.Random;
 public class Recursion {
     public static void main(String[] args) throws InterruptedException {
         int start = new Random().nextInt(100);
-        System.out.println("Start: "+start);
+        System.out.println("Start: " + start);
         count(start);
 
     }
