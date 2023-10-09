@@ -1,8 +1,10 @@
 public class Ht0510232 {
     public static void main(String[] args) {
-        int a = 24, b = 28, c = 40;
-        int dif = b - a;
-        int mul = dif*c;
+        int a = 24 / 2, b = 28 / 2, c = 40;
+        double rad1 = Math.PI * (a * a);
+        double rad2 = Math.PI * (b * b);
+        double dif = rad2 - rad1;
+        double mul = dif*c;
         System.out.println(dif);
         System.out.println(mul);
 
