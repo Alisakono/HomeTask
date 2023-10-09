@@ -4,6 +4,20 @@ import java.util.Scanner;
 
 public class Ht0510231 {
     public static void main(String[] args) {
+
+        int  b,  c, d;
+        String str = new String();
+        str = "333";
+        b = 819;
+       c = 101101;
+        d = 124;
+        int num = Integer.parseInt(str, 16);
+        int num1 = Integer.parseInt(String.valueOf(new Integer(c)), 10);
+        System.out.println(""+num);
+        System.out.println(Integer.toHexString(b));
+        System.out.println(Integer.parseInt("101101", 2));
+        System.out.println(Integer.toBinaryString(d));
+        
         Scanner scan = new Scanner(System.in);
         System.out.println("Введите основание системы счисления: ");
         int numSystem = scan.nextInt();
