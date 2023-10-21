@@ -3,9 +3,6 @@ package de.telran;
 import java.util.Arrays;
 
 public class HT1510232 {
-    public HT1510232() {
-    }
-
     public static void main(String[] args) {
     int s = 21;
     int num1 = 3;
