@@ -14,7 +14,7 @@ public class HT1810231 {
 
         }
         System.out.println();
-        for (int i = 0;i<arrInt.length;i++){
+        for (int i = 1;i<arrInt.length;i++){
             if (arrInt[i]%2 != 0) arrInt[i] = 0;
             System.out.print((arrInt[i])+" ");
             }
