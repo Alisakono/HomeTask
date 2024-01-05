@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 public class HT2310231 {
     static class Main {
+//        потерянное число
         public static int getMissingNumber(int[] arr) {
             int n = arr.length;
             int m = n + 1;

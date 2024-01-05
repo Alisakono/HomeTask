@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c543aed3-6d6d-4586-8e3e-7975498e99e6" name="Changes" comment="Д.з. от 28.09.23">
+    <list default="true" id="c543aed3-6d6d-4586-8e3e-7975498e99e6" name="Changes" comment="ht-11.10.23.-3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/Ht280923.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/Ht280923.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HT2310231.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HT2310231.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/Ht0510233.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/Ht0510233.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +47,24 @@
     &quot;last_opened_file_path&quot;: &quot;D:/&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ht280923">
-    <configuration name="Ht280923" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.Ht280923" />
-      <module name="HomeTask" />
+  <component name="RunManager" selected="Application.HT2310232">
+    <configuration name="HT1110231" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HT1110231" />
+      <module name="HomeTaskBasis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HT1110232" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HT1110232" />
+      <module name="HomeTaskBasis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HT1110233" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.HT1110233" />
+      <module name="HomeTaskBasis" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="de.telran.*" />
@@ -59,9 +75,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ht2809232" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.Ht2809232" />
-      <module name="HomeTask" />
+    <configuration name="HT2310231$Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HT2310231$Main" />
+      <module name="HomeTaskBasis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HT2310232" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.HT2310232" />
+      <module name="HomeTaskBasis" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="de.telran.*" />
@@ -74,8 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ht280923" />
-        <item itemvalue="Application.Ht2809232" />
+        <item itemvalue="Application.HT2310232" />
+        <item itemvalue="Application.HT1110233" />
+        <item itemvalue="Application.HT1110232" />
+        <item itemvalue="Application.HT1110231" />
+        <item itemvalue="Application.HT2310231$Main" />
       </list>
     </recent_temporary>
   </component>
@@ -128,12 +154,240 @@
       <option name="project" value="LOCAL" />
       <updated>1696437339114</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Д.з. от 28.09.23">
+      <option name="closed" value="true" />
+      <created>1696438438182</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696438438183</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Д.з. от 28.09.23">
+      <option name="closed" value="true" />
+      <created>1696696830237</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696696830237</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Д.з. от 28.09.23">
+      <option name="closed" value="true" />
+      <created>1696772342399</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696772342399</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Д.з. от 28.09.23">
+      <option name="closed" value="true" />
+      <created>1696772370354</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696772370354</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Д.з. от 28.09.23">
+      <option name="closed" value="true" />
+      <created>1696773583480</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696773583480</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Д.з. от 28.09.23">
+      <option name="closed" value="true" />
+      <created>1696778899057</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696778899057</updated>
+    </task>
+    <task id="LOCAL-00012" summary="summary2">
+      <option name="closed" value="true" />
+      <created>1696779706073</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696779706073</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ht-05.10.23.2">
+      <option name="closed" value="true" />
+      <created>1696780438626</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696780438626</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ht-05.10.23.2">
+      <option name="closed" value="true" />
+      <created>1696877213497</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696877213497</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ht-05.10.23.2">
+      <option name="closed" value="true" />
+      <created>1696877261081</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696877261081</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ht-05.10.23.2">
+      <option name="closed" value="true" />
+      <created>1696947527572</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1696947527572</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ht-02.10.23">
+      <option name="closed" value="true" />
+      <created>1696951754295</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1696951754295</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ht-02.10.23">
+      <option name="closed" value="true" />
+      <created>1696952528902</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1696952528902</updated>
+    </task>
+    <task id="LOCAL-00019" summary="ht-18.10.231">
+      <option name="closed" value="true" />
+      <created>1697884194690</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1697884194690</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ht-18.10.231">
+      <option name="closed" value="true" />
+      <created>1697888699314</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1697888699314</updated>
+    </task>
+    <task id="LOCAL-00021" summary="ht-18.10.231">
+      <option name="closed" value="true" />
+      <created>1697888727374</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1697888727374</updated>
+    </task>
+    <task id="LOCAL-00022" summary="ht-15.10.23">
+      <option name="closed" value="true" />
+      <created>1697903746991</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1697903746991</updated>
+    </task>
+    <task id="LOCAL-00023" summary="ht-15.10.23">
+      <option name="closed" value="true" />
+      <created>1697910392036</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1697910392036</updated>
+    </task>
+    <task id="LOCAL-00024" summary="ht-15.10.23">
+      <option name="closed" value="true" />
+      <created>1697910896216</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1697910896216</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ht-9.10.23">
+      <option name="closed" value="true" />
+      <created>1697912307245</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1697912307245</updated>
+    </task>
+    <task id="LOCAL-00026" summary="ht-9.10.23">
+      <option name="closed" value="true" />
+      <created>1697915324265</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1697915324265</updated>
+    </task>
+    <task id="LOCAL-00027" summary="ht-23.10.23">
+      <option name="closed" value="true" />
+      <created>1698168680920</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1698168680920</updated>
+    </task>
+    <task id="LOCAL-00028" summary="ht-23.10.23">
+      <option name="closed" value="true" />
+      <created>1698250682008</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1698250682008</updated>
+    </task>
+    <task id="LOCAL-00029" summary="ht-11.10.23.-1">
+      <option name="closed" value="true" />
+      <created>1698489206529</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1698489206529</updated>
+    </task>
+    <task id="LOCAL-00030" summary="ht-11.10.23.-2">
+      <option name="closed" value="true" />
+      <created>1698491595952</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1698491595952</updated>
+    </task>
+    <task id="LOCAL-00031" summary="ht-11.10.23.-3">
+      <option name="closed" value="true" />
+      <created>1698498261449</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1698498261449</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Домашние задания." />
     <MESSAGE value="Д.з. от 28.09.23" />
-    <option name="LAST_COMMIT_MESSAGE" value="Д.з. от 28.09.23" />
+    <MESSAGE value="summary2" />
+    <MESSAGE value="ht-05.10.23.2" />
+    <MESSAGE value="ht-02.10.23" />
+    <MESSAGE value="ht-18.10.231" />
+    <MESSAGE value="ht-15.10.23" />
+    <MESSAGE value="ht-9.10.23" />
+    <MESSAGE value="ht-23.10.23" />
+    <MESSAGE value="ht-11.10.23.-1" />
+    <MESSAGE value="ht-11.10.23.-2" />
+    <MESSAGE value="ht-11.10.23.-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ht-11.10.23.-3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
